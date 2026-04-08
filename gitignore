@@ -71,3 +71,4 @@ tensorrt/
 # Backup
 *.bak
 *.backup
+.idea/
